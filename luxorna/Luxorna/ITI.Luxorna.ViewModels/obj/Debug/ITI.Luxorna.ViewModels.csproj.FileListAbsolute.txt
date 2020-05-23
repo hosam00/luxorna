@@ -3,3 +3,4 @@ E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxo
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache

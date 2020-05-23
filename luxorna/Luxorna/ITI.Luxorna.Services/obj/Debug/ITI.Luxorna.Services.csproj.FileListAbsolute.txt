@@ -4,3 +4,12 @@ E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxo
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
