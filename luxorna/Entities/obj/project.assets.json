@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Samah Ezz\\.nuget\\packages\\": {}
+    "C:\\Users\\Rony\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\Samah Ezz\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\Entities\\obj\\",
+      "projectPath": "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\Rony\\.nuget\\packages\\",
+      "outputPath": "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\Entities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Samah Ezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rony\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

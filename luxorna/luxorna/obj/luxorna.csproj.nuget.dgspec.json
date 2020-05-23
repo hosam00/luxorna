@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\luxorna\\luxorna.csproj": {}
+    "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\luxorna\\luxorna.csproj": {}
   },
   "projects": {
-    "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\luxorna\\luxorna.csproj": {
+    "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\luxorna\\luxorna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\luxorna\\luxorna.csproj",
+        "projectUniqueName": "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\luxorna\\luxorna.csproj",
         "projectName": "luxorna",
-        "projectPath": "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\luxorna\\luxorna.csproj",
-        "packagesPath": "C:\\Users\\Samah Ezz\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI 3 Month Scholarship\\Github Final Project\\luxorna\\luxorna\\luxorna\\obj\\",
+        "projectPath": "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\luxorna\\luxorna.csproj",
+        "packagesPath": "C:\\Users\\Rony\\.nuget\\packages\\",
+        "outputPath": "D:\\iti\\Final Project We Rabna Kepeer\\FinalProject\\luxorna\\luxorna\\luxorna\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Samah Ezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rony\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
