@@ -1,0 +1,6 @@
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Repositories.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Repositories.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csprojAssemblyReference.cache

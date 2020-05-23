@@ -1,0 +1,5 @@
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\ITI.Luxorna.Entities.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.pdb

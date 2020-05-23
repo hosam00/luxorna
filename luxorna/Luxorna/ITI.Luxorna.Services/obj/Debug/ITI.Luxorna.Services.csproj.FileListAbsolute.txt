@@ -1,0 +1,6 @@
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
