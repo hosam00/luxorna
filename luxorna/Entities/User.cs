@@ -7,5 +7,6 @@ namespace Entities
    public class User
     {
         public string Samah { get; set; }
+        public string hossam { get; set; } 
     }
 }
