@@ -1,0 +1,34 @@
+<div  class="jumbotron  formstyle " style="background-image: url('assets/pictures/3.jpg');   ">
+<div class="overlay"></div>
+<div class="container  ">
+    <h1 >Luxorna</h1>
+    <div class="row" >
+<!--start form-->  
+<form class="col-lg-4 col-lg-offset-4  col-md-4 col-md-offset-4 ">
+    <div class="form-group">
+      
+      
+      <input type="email"    [(ngModel)]="email"  class="form-control  mt-4"  aria-describedby="emailHelp"  placeHolder="  Enter name">
+      
+    </div>
+    <div class="form-group">
+    
+      <input  type="password"  [(ngModel)]="password"    class="form-control  mt-4"  placeHolder=" Enter password">
+    </div>
+    <div class="form-group form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">Remember me</label>
+    </div>
+    <!-- <button type="submit" class="btn btn-primary"  routerLink="/main">login</button> -->
+    <button type="submit" class="btn btn-primary"  (click)="login()">login</button>
+  </form>
+<!--end form-->
+</div>
+</div>
+</div>
+
+
+
+
+
+
