@@ -64,10 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\EntitiesContext.cs" />
-    <Compile Include="Migrations\202005251105290_init.cs" />
-    <Compile Include="Migrations\202005251105290_init.designer.cs">
-      <DependentUpon>202005251105290_init.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -80,11 +76,6 @@
       <Project>{52C981A1-FFA4-43C4-B809-5B113D8A4F03}</Project>
       <Name>ITI.Luxorna.Entities</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\202005251105290_init.resx">
-      <DependentUpon>202005251105290_init.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
