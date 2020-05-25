@@ -13,6 +13,8 @@ namespace ITI.Luxorna.Entities
         public bool IsDeleted { get; set; }
         public virtual Country Country { get; set; }
         public int CountryID { get; set; }
+        public virtual ICollection<Package> Packages { get; set; }
+
 
     }
 }

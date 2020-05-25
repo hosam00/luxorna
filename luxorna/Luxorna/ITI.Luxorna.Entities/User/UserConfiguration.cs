@@ -22,6 +22,12 @@ namespace ITI.Luxorna.Entities
             HasRequired(i => i.Country)
                 .WithMany(i => i.Users)
                 .HasForeignKey(i => i.CountryID);
+            HasMany(i => i.Packages)
+                .WithRequired(i => i.User)
+                .HasForeignKey(i => i.UserID);
+
+
+
 
 
         }

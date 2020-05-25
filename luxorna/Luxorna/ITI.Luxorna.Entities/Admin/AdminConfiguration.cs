@@ -20,7 +20,10 @@ namespace ITI.Luxorna.Entities
             HasRequired(i => i.admin)
             .WithMany(i => i.Admins)
             .HasForeignKey(i => i.AdminID);
-                
+            HasMany(i => i.AdminRoles)
+               .WithRequired(i => i.Admin)
+               .HasForeignKey(i => i.AdminID);
+
 
 
         }

@@ -14,6 +14,8 @@ namespace ITI.Luxorna.Entities
 
         public int AdminID { get; set; }
         public virtual ICollection<Admin> Admins { get; set; }
+        public virtual ICollection<AdminRole> AdminRoles { get; set; }
+
 
     }
 }
