@@ -17,7 +17,7 @@ namespace ITI.Luxorna.Entities
             Property(i => i.UpdateBy)
                 .IsOptional();
             //Property(i=>i.AdminID)
-            HasRequired(i => i.admin)
+            HasOptional(i => i.admin)
             .WithMany(i => i.Admins)
             .HasForeignKey(i => i.AdminID);
             HasMany(i => i.AdminRoles)

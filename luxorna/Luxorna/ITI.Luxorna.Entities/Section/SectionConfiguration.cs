@@ -12,6 +12,23 @@ namespace ITI.Luxorna.Entities
         public SectionConfiguration()
         {
             ToTable("Section");
+            Property(i => i.Name)
+              .HasMaxLength(100)
+              .IsRequired();
+            Property(i => i.Description)
+                .HasMaxLength(600)
+                .IsOptional();
+            Property(i => i.CreateDate)
+                .IsRequired();
+            Property(i => i.UpdateDate)
+                .IsOptional();
+            Property(i => i.CreateBy)
+               .IsRequired();
+            Property(i => i.UpdateBy)
+              .IsOptional();
+            Property(i => i.Image)
+                .HasMaxLength(500)
+                .IsRequired();
             HasMany(i => i.Hotels)
                 .WithRequired(i => i.Section)
                 .HasForeignKey(i => i.SectionID);

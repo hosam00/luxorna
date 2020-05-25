@@ -46,5 +46,3 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csproj.CopyComplete
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.pdb
-D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.Migrations.init.resources
-D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csproj.GenerateResource.cache

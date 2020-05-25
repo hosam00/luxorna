@@ -1,5 +1,6 @@
 ﻿using Autofac;
 using Autofac.Integration.WebApi;
+using ITI.Luxorna.Repositories;
 using ITI.Luxorna.Repositories.Context;
 using System;
 using System.Collections.Generic;
@@ -37,6 +38,11 @@ namespace ITI.Luxorna.Presentation
 
             builder.RegisterType<EntitiesContext>()
                .InstancePerRequest();
+
+            builder.RegisterGeneric(typeof(GenericRepository<>))
+                .InstancePerRequest();
+            builder.RegisterType<UnitOfWork>()
+                .InstancePerRequest();
 
             IContainer c = builder.Build();
             config.DependencyResolver = new AutofacWebApiDependencyResolver(c);
