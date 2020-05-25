@@ -37,3 +37,23 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.csprojAssemblyReference.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\ITI.Luxorna.Entities.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\EntityFramework.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\Newtonsoft.Json.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\System.Net.Http.Formatting.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\System.Web.Http.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\System.Web.Http.WebHost.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\EntityFramework.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\Newtonsoft.Json.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\System.Net.Http.Formatting.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\System.Web.Http.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\bin\Debug\System.Web.Http.WebHost.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.csprojAssemblyReference.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.csproj.CoreCompileInputs.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.csproj.CopyComplete
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Entities\obj\Debug\ITI.Luxorna.Entities.pdb
