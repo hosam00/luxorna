@@ -46,26 +46,3 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csproj.CopyComplete
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.pdb
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Repositories.dll.config
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Repositories.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Repositories.pdb
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\EntityFramework.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\EntityFramework.SqlServer.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Entities.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\Newtonsoft.Json.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\System.Net.Http.Formatting.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\System.Web.Http.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\System.Web.Http.WebHost.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Entities.pdb
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\ITI.Luxorna.Entities.dll.config
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\EntityFramework.xml
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\EntityFramework.SqlServer.xml
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\Newtonsoft.Json.xml
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\System.Net.Http.Formatting.xml
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\System.Web.Http.xml
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\bin\Debug\System.Web.Http.WebHost.xml
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csprojAssemblyReference.cache
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csproj.CoreCompileInputs.cache
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.csproj.CopyComplete
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.dll
-E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Repositories\obj\Debug\ITI.Luxorna.Repositories.pdb
