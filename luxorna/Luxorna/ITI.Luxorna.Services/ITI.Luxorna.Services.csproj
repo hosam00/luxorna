@@ -53,11 +53,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Admin\AdminService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ITI.Luxorna.Entities\ITI.Luxorna.Entities.csproj">
+      <Project>{52C981A1-FFA4-43C4-B809-5B113D8A4F03}</Project>
+      <Name>ITI.Luxorna.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ITI.Luxorna.Repositories\ITI.Luxorna.Repositories.csproj">
+      <Project>{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}</Project>
+      <Name>ITI.Luxorna.Repositories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ITI.Luxorna.ViewModels\ITI.Luxorna.ViewModels.csproj">
+      <Project>{6EC19133-16E5-4B82-A5D0-808C838EEDD9}</Project>
+      <Name>ITI.Luxorna.ViewModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
