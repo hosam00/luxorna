@@ -105,113 +105,6 @@ E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxo
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\System.Threading.Tasks.Extensions.xml
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.pdb
 E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.dll.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Presentation.dll.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Presentation.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Presentation.pdb
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\csc.exe
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\csc.exe.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\csc.rsp
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\csi.exe
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\csi.exe.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\csi.rsp
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.Managed.Core.targets
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.AppContext.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Collections.Immutable.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Console.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Globalization.Calendars.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.IO.Compression.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.IO.Compression.ZipFile.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.IO.FileSystem.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Net.Http.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Net.Sockets.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Reflection.Metadata.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.ValueTuple.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Xml.XPath.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\vbc.exe
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\vbc.exe.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\vbc.rsp
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\VBCSCompiler.exe
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\roslyn\VBCSCompiler.exe.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Antlr3.Runtime.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Autofac.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Autofac.Integration.WebApi.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\EntityFramework.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\EntityFramework.SqlServer.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Repositories.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Microsoft.Bcl.AsyncInterfaces.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Microsoft.Web.Infrastructure.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Newtonsoft.Json.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Net.Http.Formatting.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Runtime.CompilerServices.Unsafe.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Threading.Tasks.Extensions.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Helpers.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Http.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Http.WebHost.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Mvc.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Optimization.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Razor.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.Deployment.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.Razor.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\WebGrease.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Repositories.pdb
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Repositories.dll.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Autofac.pdb
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Autofac.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Autofac.Integration.WebApi.pdb
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Autofac.Integration.WebApi.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\EntityFramework.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\EntityFramework.SqlServer.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Microsoft.Bcl.AsyncInterfaces.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Runtime.CompilerServices.Unsafe.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Threading.Tasks.Extensions.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Newtonsoft.Json.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Net.Http.Formatting.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Helpers.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Http.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Http.WebHost.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Mvc.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Optimization.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.Razor.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.Deployment.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.Razor.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Antlr3.Runtime.pdb
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.pdb
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.dll.config
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csprojAssemblyReference.cache
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csproj.CoreCompileInputs.cache
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csproj.CopyComplete
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.dll
-E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Presentation.dll.config
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Presentation.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Presentation.pdb
@@ -270,7 +163,6 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\EntityFramework.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\EntityFramework.SqlServer.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Repositories.dll
-D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Services.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Microsoft.Bcl.AsyncInterfaces.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Microsoft.Web.Infrastructure.dll
@@ -289,10 +181,8 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\System.Web.WebPages.Razor.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\WebGrease.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.dll
-D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.ViewModels.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Repositories.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Repositories.dll.config
-D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Services.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Autofac.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Autofac.xml
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Autofac.Integration.WebApi.pdb
@@ -317,9 +207,12 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Entities.dll.config
-D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.ViewModels.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csprojAssemblyReference.cache
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csproj.CoreCompileInputs.cache
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csproj.CopyComplete
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Services.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Services.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.ViewModels.pdb
