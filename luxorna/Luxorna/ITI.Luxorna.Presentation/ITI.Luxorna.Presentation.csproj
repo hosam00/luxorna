@@ -274,6 +274,10 @@
       <Project>{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}</Project>
       <Name>ITI.Luxorna.Repositories</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ITI.Luxorna.Services\ITI.Luxorna.Services.csproj">
+      <Project>{687D4F8A-966A-4EB8-99B8-8BD9335DB60B}</Project>
+      <Name>ITI.Luxorna.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
