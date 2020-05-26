@@ -54,6 +54,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Admin\AdminService.cs" />
+    <Compile Include="Country\CountryService.cs" />
+    <Compile Include="HotelImage\HotelImageService.cs" />
+    <Compile Include="HotelPackage\HotelPackageService.cs" />
+    <Compile Include="Hotel\HotelService.cs" />
+    <Compile Include="MuseumImage\MuseumImageService.cs" />
+    <Compile Include="Museum\MuseumService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Role\RoleService.cs" />
     <Compile Include="Section\SectionService.cs" />

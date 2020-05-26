@@ -212,3 +212,7 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.csproj.CopyComplete
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.dll
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\obj\Debug\ITI.Luxorna.Presentation.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Services.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.Services.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Presentation\bin\ITI.Luxorna.ViewModels.pdb
