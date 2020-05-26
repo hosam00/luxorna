@@ -2,6 +2,7 @@
 using Autofac.Integration.WebApi;
 using ITI.Luxorna.Repositories;
 using ITI.Luxorna.Repositories.Context;
+using ITI.Luxorna.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,6 +43,11 @@ namespace ITI.Luxorna.Presentation
             builder.RegisterGeneric(typeof(GenericRepository<>))
                 .InstancePerRequest();
             builder.RegisterType<UnitOfWork>()
+                .InstancePerRequest();
+            builder.RegisterAssemblyTypes
+                (
+                typeof(AdminService).Assembly
+                ).Where(i => i.Name.EndsWith("Service"))
                 .InstancePerRequest();
 
             IContainer c = builder.Build();
