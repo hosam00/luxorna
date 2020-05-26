@@ -11,7 +11,6 @@ namespace ITI.Luxorna.Services
 {
     public class MuseumPackageService
     {
-        //
         public UnitOfWork UnitOfWork { get; set; }
         private GenericRepository<MuseumPacakge> museumPacakgeRepo;
         public MuseumPackageService(UnitOfWork unitOfWork)
