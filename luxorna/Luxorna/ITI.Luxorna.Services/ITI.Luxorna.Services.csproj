@@ -60,15 +60,7 @@
     <Compile Include="Hotel\HotelService.cs" />
     <Compile Include="MuseumImage\MuseumImageService.cs" />
     <Compile Include="Museum\MuseumService.cs" />
-    <Compile Include="MusuemPackage\MuseumPackageService.cs" />
-    <Compile Include="Package\PackageService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ResturantImage\ResturantIImageEditViewModel.cs" />
-    <Compile Include="ResturantImage\ResturantImageService.cs" />
-    <Compile Include="ResturantItemSize\ResturantItemSizeService.cs" />
-    <Compile Include="ResturantMenuItem\ResturantMenuItemService.cs" />
-    <Compile Include="ResturantPackage\ResturantPackageService.cs" />
-    <Compile Include="Resturant\ResturantService.cs" />
     <Compile Include="Role\RoleService.cs" />
     <Compile Include="Section\SectionService.cs" />
     <Compile Include="Size\SizeService.cs" />
@@ -78,39 +70,9 @@
     <Compile Include="User\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\ITI.Luxorna.Entities.dll.config" />
-    <None Include="bin\Debug\ITI.Luxorna.Repositories.dll.config" />
-    <None Include="obj\Debug\build.force" />
-    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="obj\Debug\ITI.Luxorna.Service.csprojAssemblyReference.cache" />
-    <None Include="obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete" />
-    <None Include="obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache" />
-    <None Include="obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Debug\EntityFramework.dll" />
-    <Content Include="bin\Debug\EntityFramework.xml" />
-    <Content Include="bin\Debug\ITI.Luxorna.Entities.dll" />
-    <Content Include="bin\Debug\ITI.Luxorna.Entities.pdb" />
-    <Content Include="bin\Debug\ITI.Luxorna.Repositories.dll" />
-    <Content Include="bin\Debug\ITI.Luxorna.Repositories.pdb" />
-    <Content Include="bin\Debug\ITI.Luxorna.Services.dll" />
-    <Content Include="bin\Debug\ITI.Luxorna.Services.pdb" />
-    <Content Include="bin\Debug\ITI.Luxorna.ViewModels.dll" />
-    <Content Include="bin\Debug\ITI.Luxorna.ViewModels.pdb" />
-    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
-    <Content Include="bin\Debug\Newtonsoft.Json.xml" />
-    <Content Include="bin\Debug\System.Net.Http.Formatting.dll" />
-    <Content Include="bin\Debug\System.Net.Http.Formatting.xml" />
-    <Content Include="bin\Debug\System.Web.Http.dll" />
-    <Content Include="bin\Debug\System.Web.Http.WebHost.dll" />
-    <Content Include="bin\Debug\System.Web.Http.WebHost.xml" />
-    <Content Include="bin\Debug\System.Web.Http.xml" />
-    <Content Include="obj\Debug\ITI.Luxorna.Services.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\ITI.Luxorna.Services.dll" />
-    <Content Include="obj\Debug\ITI.Luxorna.Services.pdb" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\ITI.Luxorna.Entities\ITI.Luxorna.Entities.csproj">
       <Project>{52C981A1-FFA4-43C4-B809-5B113D8A4F03}</Project>
@@ -124,10 +86,6 @@
       <Project>{6EC19133-16E5-4B82-A5D0-808C838EEDD9}</Project>
       <Name>ITI.Luxorna.ViewModels</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="bin\Release\" />
-    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
