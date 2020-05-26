@@ -11,7 +11,7 @@ namespace ITI.Luxorna.Services
 {
    public class ResturantMenuItemService
     {
-        //
+
         public UnitOfWork UnitOfWork { get; set; }
         private GenericRepository<ResturantMenuItem> ResturantMenuItemRepo;
         public ResturantMenuItemService(UnitOfWork unitOfWork)
