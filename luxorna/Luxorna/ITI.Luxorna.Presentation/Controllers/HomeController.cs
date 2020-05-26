@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ITI.Luxorna.Presentation.Controllers
+namespace ITI.Luxorna.Presentation
 {
     public class HomeController : Controller
     {

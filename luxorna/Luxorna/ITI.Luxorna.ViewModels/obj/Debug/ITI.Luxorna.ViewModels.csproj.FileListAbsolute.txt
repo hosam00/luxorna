@@ -16,3 +16,15 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll.config
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.xml
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CopyComplete
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CopyComplete
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb

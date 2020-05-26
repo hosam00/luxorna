@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace ITI.Luxorna.Presentation.Controllers
+namespace ITI.Luxorna.Presentation
 {
     public class ValuesController : ApiController
     {

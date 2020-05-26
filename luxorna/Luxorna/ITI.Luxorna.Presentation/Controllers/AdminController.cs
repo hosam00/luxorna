@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Http;
 
-namespace ITI.Luxorna.Presentation.Controllers
+namespace ITI.Luxorna.Presentation
 {
-    public class AdminController
+    public class AdminController : ApiController
     {
     }
 }

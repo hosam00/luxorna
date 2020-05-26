@@ -38,3 +38,28 @@ D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Lu
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll.config
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.pdb
 D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll.config
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.xml
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+E:\finalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
